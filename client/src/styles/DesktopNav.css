@@ -1,0 +1,20 @@
+.desktop_container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.desktopNavLeft_container{
+    width: 30%;
+}
+
+.logo{
+    width: 45%;
+}
+.desktopNavRight_container {
+    display: flex;
+    align-items: center;
+}
+.desktopNavRight_container > h3 {
+    margin-right: 2em;
+    font-weight: 500;
+}
